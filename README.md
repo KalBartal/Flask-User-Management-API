@@ -1,5 +1,9 @@
 # Flask User Management API
 
+[ ![Flask User Management API](./image.png)](https://kalbartal.net/building-a-restful-api-with-flask-and-sqlalchemy/)
+
+I have a step by step walkthrough for this code on my [my blog](https://kalbartal.net/building-a-restful-api-with-flask-and-sqlalchemy/).
+
 This repository contains code for a Flask API that can be used to manage user information. The API implements the following routes:
 
 * GET /users - to get list of all users in the database
